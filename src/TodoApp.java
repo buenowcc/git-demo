@@ -3,7 +3,7 @@ import java.util.List;
 
 public class TodoApp {
 
-    static final String GREETING = "Welcome to my to-do list!";
+    static final String GREETING = "A new greeting right here.";
 
     public static void main(String[] args) {
         List<String> tasks = new ArrayList<>();
